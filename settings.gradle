@@ -1,0 +1,2 @@
+rootProject.name='LADM_U2_Tarea2_GerardoHuizar'
+include ':app'
